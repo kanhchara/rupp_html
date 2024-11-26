@@ -1,0 +1,18 @@
+/* 
+external style (ការរចនាក្រៅវេបសាយ)ប្រើបានច្រើនដងមិនក្នុងវេបផេកឬវេបសាយ
+កំណត់ពុម្ពអក្សរសម្រាប់វេបផេ ឬ វេបសាយគឺជ្រើស body មកកំណត់ 
+*/
+body {
+    font-family: 'Khmer OS Siemreap';
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Khmer OS Muol Light';
+}
+a:hover{
+    color: black;
+    font-size: 30px;
+}
